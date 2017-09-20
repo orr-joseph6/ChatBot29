@@ -1,0 +1,24 @@
+html {
+ background-color: rgb(255, 3, 76);
+ color: #ADFF2F;
+ text-align: right;
+ margin-bottom: 120px;
+ margin-top: 30px;
+ margin-right: 3px;
+}
+
+h1 {
+ background-color: skyBlue;
+ color: red;
+ border: 2px solid orange;
+ border-radius: 90px;
+ margin: 20px;
+}
+
+p {
+ background-color: skyBlue;
+ color: red;
+ border: 2px solid orange;
+ border-radius: 90px;
+ margin: 20px;
+}
